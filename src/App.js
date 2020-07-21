@@ -11,6 +11,7 @@ function App() {
     <ContextApi.Provider  value={sum}>
 
       <div>
+      <h1>Hi<h1/>
         <Parent />
 
         
